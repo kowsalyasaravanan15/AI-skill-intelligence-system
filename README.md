@@ -1,2 +1,2 @@
-# AI-skill-intelligence-system
-AI-Powered Dynamic Skill Intelligence System for Career Readiness &amp; Employability
+# content from remote main
+# content from dev
